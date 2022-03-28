@@ -1,10 +1,11 @@
 <template>
-  <div>
+  <div class="">
     <TheHeader />
     <main>
-      <div>
-        <AppButton />
-        <AppTag />
+      <div class="grid grid-cols-3 items-center">
+        <AppCard></AppCard>
+        <AppCard></AppCard>
+        <AppCard></AppCard>
       </div>
     </main>
   </div>
