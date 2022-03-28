@@ -29,3 +29,5 @@
 - Created tag component!
 
 - Went ahead and created a card component. Added the `cta-button` and `tags` to it. Used a grid box to display 3 card columns. Made all the other parts static but I'm seeing that I'll have to something more dynamic to change out the image and title.
+
+- Going to work on props
