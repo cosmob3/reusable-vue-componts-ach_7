@@ -4,6 +4,7 @@
     <main>
       <div>
         <AppButton />
+        <AppTag />
       </div>
     </main>
   </div>
