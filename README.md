@@ -1,5 +1,13 @@
 # CPNT-262 / Achievement 7 - Reusable Vue Components / Bryan Velasco
 
+**Attributions**
+
+- Photo of [Mountain by Aleksey Kuprikov](https://images.pexels.com/photos/3551214/pexels-photo-3551214.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260) from Pexels
+
+- Photo of [Airplane by Alexey Demidov](https://images.pexels.com/photos/11341064/pexels-photo-11341064.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260) from Pexels
+
+- Photo of [Boat in Water by Salvador Ortegarrieta](https://images.pexels.com/photos/11282403/pexels-photo-11282403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) from Pexels
+
 ## TODO
 
 - Create a reusable card component
