@@ -7,16 +7,16 @@
   - X title
   - X text
   - X cta button
-  - X image
+  - image
   - X tags
 
 - X Set up props to pass information to the card component from the parent component/page
 
 - Use v-if to render a tag list
 
-- On your parent page (index.vue or App.vue), add an array of objects that contains information for a card
-  - 3 cards
-  - 1 of them must not have a tag array
+- X On your parent page (index.vue or App.vue), add an array of objects that contains information for a card
+  - X 3 cards
+  - X 1 of them must not have a tag array
 
 ## My Process
 
@@ -46,3 +46,9 @@
   - X button can remain a component
 
 - Used Props and slots to add the title and text for the cards so that they can be changed from the `index.vue` page
+
+- Finished tags
+
+- Still need to add an array of tags?
+- image
+- v-if
