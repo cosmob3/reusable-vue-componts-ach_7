@@ -47,8 +47,16 @@
 
 - Used Props and slots to add the title and text for the cards so that they can be changed from the `index.vue` page
 
-- Finished tags
+## TODO
 
-- Still need to add an array of tags?
-- image
-- v-if
+- X Finished tags
+- X image
+- X v-if
+
+- Ended up putting the tags right in the `index.vue` page
+
+- Was messing around and I was able to maka my buttons work to show more content. Used `v-if` and `v-else-if`. Click them! They should work!
+
+- Could not figure out how to make the last card the same size as the rest
+
+- Finally added images

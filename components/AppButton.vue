@@ -1,6 +1,6 @@
 <template>
   <div class="bg-lime-500 rounded-lg text-center my-10 mx-0">
-    <a href="#">{{ btnText }}</a>
+    <button class="text-purple-700">{{ btnText }}</button>
   </div>
 </template>
 
