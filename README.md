@@ -10,7 +10,7 @@
   - X image
   - X tags
 
-- Set up props to pass information to the card component from the parent component/page
+- X Set up props to pass information to the card component from the parent component/page
 
 - Use v-if to render a tag list
 
@@ -20,14 +20,29 @@
 
 ## My Process
 
-- Looked at what I would need to create and saw if those could be smaller components within a bigger component.
+- Looked at what I would need to create and saw if those could be smaller components within a bigger component
 
-- I decided to make the `cta-button` and the `tags` into their own components.
+- I decided to make the `cta-button` and the `tags` into their own components
 
-- Made the button, I tested it out and it took up the width of the screen. Hope I can fix it later once its inside a component.
+- Made the button, I tested it out and it took up the width of the screen. Hope I can fix it later once its inside a component
 
 - Created tag component!
 
 - Went ahead and created a card component. Added the `cta-button` and `tags` to it. Used a grid box to display 3 card columns. Made all the other parts static but I'm seeing that I'll have to something more dynamic to change out the image and title.
 
 - Going to work on props
+
+---
+
+- What things do I want to be able to change from the `index.vue` page
+
+  - X title
+  - X text
+  - images
+  - tags
+
+  Therefore,
+
+  - X button can remain a component
+
+- Used Props and slots to add the title and text for the cards so that they can be changed from the `index.vue` page
