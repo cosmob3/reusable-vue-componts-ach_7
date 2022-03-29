@@ -38,8 +38,8 @@
 
   - X title
   - X text
-  - images
-  - tags
+  - X images
+  - X tags
 
   Therefore,
 
